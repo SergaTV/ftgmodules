@@ -1,0 +1,1 @@
+https://github.com/Fl1yd/FTG-Modules/blob/master/quotes.py
